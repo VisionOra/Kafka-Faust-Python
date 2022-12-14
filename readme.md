@@ -1,3 +1,4 @@
+![main](attachments/faust_main.png)
 # Kafka Streaming with Faust
 
 ## Introduction
