@@ -83,7 +83,7 @@ Now you will see the hello world message in the consumer every second.
 
 ## Check out the code on GitHub:
 
-https://github.com/SohaibAnwaar/Kafka-Consumer-Python
+https://github.com/SohaibAnwaar/Kafka-Faust-Python
 
 # Author
 
